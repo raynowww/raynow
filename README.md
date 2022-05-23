@@ -1,7 +1,6 @@
 
 ---
 ---
----
 [Тест-план и баг-репорты на Английском](https://docs.google.com/document/d/155l8sTzoXLFt0DBPcsbLbrUNSfwsa3ZFZwkCJR1iBtY/edit#heading=h.v2zpydmtmi93)
 ---
 ---
