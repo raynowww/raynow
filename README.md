@@ -13,3 +13,7 @@
 ---
 ---
 ---
+[Пример выполнения ТЗ v.2](https://docs.google.com/spreadsheets/d/1J7fkzhsEc3puFYV9j-YzEuC5j3EDILf8VsTluiQ0iAs/edit#gid=0)
+---
+---
+---
